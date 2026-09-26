@@ -1,20 +1,67 @@
- 
-👋 Hello, myself Pavan Ganesh Bhagathi, I am an enthusiastic Full Stack Developer. 
+# 👋 Hi, I'm Pavan Ganesh Bhagathi
 
-🔭 I love learning new things, excited to build applications.
+### Full-Stack Engineer → AI Engineer
 
-🌱 I’m currently learning Security (JWT) &  Deploying tools - Docker, Kubernetes.
+I’m a **Full-Stack Engineer with 6+ years of professional experience** building and supporting enterprise applications across consulting and engineering environments.
 
-🌱 I’m currently learning Spring to improve My backend skills, Typescript to bring typed system in our current projects.
+My engineering journey is now focused on moving from **full-stack application development toward product engineering and production AI systems**.
 
-💬 Ask me about Java, Springboot, Angular, CSS, Typescript, JIRA would be interested to help you or discuss. 
+### 🧭 What I'm Working Toward
 
-💻 Having good working knowledge on Angular Framework concepts like Dependency Injection, Routing, Directives, Component Interaction, Reactive-forms, Services, Authguard and Two-Way Data binding.
+```text
+Full-Stack Engineering
+        ↓
+DSA & Problem Solving
+        ↓
+System Design
+        ↓
+LLM Engineering
+        ↓
+Agentic AI Systems
+        ↓
+Production AI Engineering
+```
 
-🎯 Focusing to become a Microservice Developer. 
+### 🧠 Current Learning Focus
 
-⚡ Fun fact: I love playing cricket & volley ball. I would like to surf internet a lot to know about things. 
+* 🧩 **DSA & Problem Solving** — strengthening algorithmic thinking
+* 🏗️ **System Design** — designing scalable and distributed systems
+* 🤖 **LLM Engineering** — Transformers, embeddings, RAG and LLM applications
+* 🔗 **Agentic AI** — agents, tool calling, MCP and agentic workflows
+* 📏 **AI Evaluation** — measuring RAG and agent quality
+* ⚙️ **LLMOps & Inference** — deploying, scaling and operating AI systems
+* 🔐 **AI Security & Observability** — building reliable production AI systems
 
-📫 How to reach me : pavanbhagathi@gmail.com
+### 💼 Professional Foundation
 
-Welcome to my profile, You can follow me if my skills matches.
+**6+ Years of Full-Stack Engineering Experience**
+
+* **Deloitte** — Consultant, enterprise application development and client projects
+* **Capgemini** — Full-Stack development across enterprise projects,
+
+My existing software engineering experience forms the foundation for the AI engineering path I’m building now.
+
+### 🚀 What I'm Building
+
+I’m turning my learning into **production-oriented projects** around:
+
+* Production RAG systems
+* Tool-using agents
+* Model Context Protocol (MCP)
+* Agentic RAG / multi-agent systems
+* Production LLM services
+* Spring AI + Google Cloud Vector Search
+
+### 🎯 Career Direction
+
+> **Product Engineering + Production AI**
+
+My goal is to combine strong **software engineering, problem solving, system design and modern AI engineering** to build scalable, reliable and production-ready systems.
+
+### ⚡ Outside Engineering
+
+I enjoy **cricket, volleyball, exploring technology and learning how things work**.
+
+---
+
+📫 **Email:** [pavanbhagathi@gmail.com](mailto:pavanbhagathi@gmail.com)
